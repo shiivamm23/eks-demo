@@ -60,7 +60,7 @@ pipeline {
             steps {
 
                 sh """
-                    docker buildx build \
+                    docker build build \
                     --platform linux/amd64 \
                     -t ${ECR_URI}:${IMAGE_TAG} \
                     -t ${ECR_URI}:latest \
