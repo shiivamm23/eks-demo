@@ -1,4 +1,4 @@
-# 🚀 Frontend CI/CD Deployment on Amazon EKS Using Jenkins, Amazon ECR & AWS Load Balancer Controller
+#  Frontend CI/CD Deployment on Amazon EKS Using Jenkins, Amazon ECR & AWS Load Balancer Controller
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
@@ -1206,8 +1206,6 @@ Terminate the Jenkins EC2 instance from the AWS EC2 console after the project is
 ---
 
 # 🎯 Learning Outcomes
-
-By completing this project, you gain practical experience with:
 
 ### CI/CD
 
