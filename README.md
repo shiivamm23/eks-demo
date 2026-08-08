@@ -134,8 +134,6 @@ This project demonstrates practical experience with:
 
 # 📌 Prerequisites
 
-Before starting this project, ensure you have:
-
 * An active AWS account
 * A GitHub account
 * An IAM user or IAM role with appropriate permissions
@@ -572,7 +570,7 @@ aws ecr list-images \
 
 Helm is used to install and manage Kubernetes applications and components.
 
-Install Helm using the official installation method for your environment.
+Install Helm using the official installation method for environment.
 
 Verify:
 
